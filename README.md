@@ -1,5 +1,5 @@
-# osstem_credit_score_system
-osstem_credit_score_system
+# credit_score_system
+credit_score_system
 # Customer Credit Score System (客户信用评分系统)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
